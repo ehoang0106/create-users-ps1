@@ -31,7 +31,7 @@ Set-ExecutionPolicy bypass -scope process
 ```PowerShell
 Connect-AzureAD
 ```
-- **CSV File Setup**: Prepare a CSV file with user details as per your requirements. The basic csv file should be included 4 columns `GivenName,Surname,Department,JobTitle`. Modify the code if you do not want to include any not required attributes in the CSV file.
+- **CSV File Setup**: Prepare a CSV file with user details as per your requirements. The basic csv file should be included 4 columns `GivenName`, `Surname`, `Department`, `JobTitle`. Modify the code if you do not want to include any not required attributes in the CSV file.
 
 ## Usage
 
