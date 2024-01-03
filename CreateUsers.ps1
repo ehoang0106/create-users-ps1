@@ -1,4 +1,4 @@
-$csvPath = "C:\Users\KhoaHoang\Downloads\VSCode\Powershell-Project\ManagerUser\users.csv"
+$csvPath = ".\users.csv"
 
 function Enter-Users {
     param(
